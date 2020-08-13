@@ -3,7 +3,7 @@ The included data generator generates a data set with two gaussians distribution
 
 
 ![Diagram](Backprop.png)
-Format: ![Alt Text](url)
+A high level diagram of the backpropagation implementation.
 
 ![Results](loss_acc_curve.png)
-Format: ![Alt Text](url)
+Results of training the model.
