@@ -1,4 +1,4 @@
-# ARIN702001 - Deep Learning, Programming Assignment #1
+# Deep Learning Basics, Programming Assignment #1
 # Miika Toikkanen 2020223166
 
 import numpy as np
