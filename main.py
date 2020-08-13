@@ -1,5 +1,5 @@
-# ARIN702001 - Deep Learning, Programming Assignment #1
-# Miika Toikkanen 2020223166
+# Deep Learning Basics, Programming Assignment #1
+# Miika Toikkanen
 
 from utils import DataGenerator, compute_accuracy
 import numpy as np
