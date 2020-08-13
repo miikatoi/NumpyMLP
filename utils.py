@@ -1,5 +1,5 @@
 # Deep Learning Basics, Programming Assignment #1
-# Miika Toikkanen 2020223166
+# Miika Toikkanen
 
 import numpy as np
 import matplotlib.pyplot as plt
