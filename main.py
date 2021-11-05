@@ -1,4 +1,3 @@
-# Deep Learning Basics, Programming Assignment #1
 # Miika Toikkanen
 
 from utils import DataGenerator, compute_accuracy
